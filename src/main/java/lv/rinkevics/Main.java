@@ -1,9 +1,8 @@
-package lv.kaspars;
+package lv.rinkevics;
 
-import lv.kaspars.config.HelloWorldConfig;
+import lv.rinkevics.config.HelloWorldConfig;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-
 
 public class Main {
 

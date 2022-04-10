@@ -1,6 +1,6 @@
-package lv.kaspars.config;
+package lv.rinkevics.config;
 
-import lv.kaspars.HelloWorld;
+import lv.rinkevics.HelloWorld;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

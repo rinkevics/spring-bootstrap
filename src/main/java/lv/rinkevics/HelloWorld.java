@@ -1,4 +1,4 @@
-package lv.kaspars;
+package lv.rinkevics;
 
 import org.springframework.stereotype.Service;
 
