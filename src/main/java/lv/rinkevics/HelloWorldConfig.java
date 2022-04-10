@@ -1,4 +1,4 @@
-package lv.rinkevics.config;
+package lv.rinkevics;
 
 import lv.rinkevics.HelloWorld;
 import org.springframework.context.annotation.Bean;
